@@ -31,7 +31,7 @@ SyncLedger is a Flutter-based mobile application designed to help small business
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/syncledger.git
+   git clone https://github.com/an90ass/syncledger.git
    cd syncledger
    ```
 
